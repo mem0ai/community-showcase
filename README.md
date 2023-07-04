@@ -9,7 +9,7 @@ A repository that collects and showcases all the apps, blogs, videos, and tutori
 - [Discord Bot for LLM chat](https://github.com/Reidond/discord_bots_playground/tree/c8b0c36541e4b393782ee506804c4b6962426dd6/python/chat-channel-bot) by Reidond
 - [EmbedChain-Streamlit-Docker App](https://github.com/amjadraza/embedchain-streamlit-app) by amjadraza
 - [Harry Potter Philosphers Stone Bot](https://github.com/vinayak-kempawad/Harry_Potter_Philosphers_Stone_Bot/) by Vinayak Kempawad, ([linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7080907532155686912/))
-- [LLM bot trained on own messages][https://github.com/Harin329/harinBot] by Hao Wu
+- [LLM bot trained on own messages](https://github.com/Harin329/harinBot) by Hao Wu
 
 ## Posts
 
