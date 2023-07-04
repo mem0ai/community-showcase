@@ -11,6 +11,10 @@ A repository that collects and showcases all the apps, blogs, videos, and tutori
 - [Harry Potter Philosphers Stone Bot](https://github.com/vinayak-kempawad/Harry_Potter_Philosphers_Stone_Bot/) by Vinayak Kempawad, ([linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7080907532155686912/))
 - [LLM bot trained on own messages][https://github.com/Harin329/harinBot] by Hao Wu
 
+### Closed Source
+
+- [Taobot.io](https://taobot.io) - chatbot & knowledgebase hybrid by [cachho](https://github.com/cachho)
+
 ## Posts
 
 ### Blogs
