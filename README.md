@@ -24,10 +24,13 @@ A repository that collects and showcases all the apps, blogs, videos, and tutori
 ### LinkedIn
 
 - [What is embedchain](https://www.linkedin.com/posts/activity-7079393104423698432-wRyi/) by Rithesh Sreenivasan
+- [Building a chatbot with EmbedChain](https://www.linkedin.com/posts/activity-7078434598984060928-Zdso/) by Lior Sinclair
+- [Making chatbot without vs with embedchain](https://www.linkedin.com/posts/kalyanksnlp_llms-chatbots-langchain-activity-7077453416221863936-7N1L/) by Kalyan KS
 
 ### Twitter
 
 - [What is embedchain](https://twitter.com/AlphaSignalAI/status/1672668574450847745) by Lior
+- [Building a chatbot with Embedchain](https://twitter.com/Saboo_Shubham_/status/1673537044419686401) by Shubham Saboo
 
 ## Videos
 
