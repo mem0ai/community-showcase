@@ -39,10 +39,11 @@ A repository that collects and showcases all the apps, blogs, videos, and tutori
 - [EmbedChain -- NEW!: Build LLM-Powered Bots with Any Dataset](https://www.youtube.com/watch?v=XmaBezzGHu4) by DataInsightEdge
 - [Chat With Your PDFs in less than 10 lines of code! EMBEDCHAIN tutorial](https://www.youtube.com/watch?v=1ugkcsAcw44) by Phani Reddy
 - [How To Create A Custom Knowledge AI Powered Bot | Install + How To Use](https://www.youtube.com/watch?v=VfCrIiAst-c) by The Ai Solopreneur
+- [Build Custom Chatbot in 6 min with this Framework [Beginner Friendly]](https://www.youtube.com/watch?v=-8HxOpaFySM) by Maya Akim
+- [embedchain-streamlit-app](https://www.youtube.com/watch?v=3-9GVd-3v74) by Amjad Raza
 
 ## Mentions
 
 ### Github repos
 
 - [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
-
