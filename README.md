@@ -1,3 +1,7 @@
+[![Discord](https://dcbadge.vercel.app/api/server/nhvCbCtKV?style=flat)](https://discord.gg/6PzXDgEjG5)
+[![Twitter](https://img.shields.io/twitter/follow/embedchain)](https://twitter.com/embedchain)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?logo=substack)](https://embedchain.substack.com/)
+
 # Embedchain Community Showcase
 
 A repository that collects and showcases all the apps, blogs, videos, and tutorials created by the community.
@@ -14,6 +18,12 @@ A repository that collects and showcases all the apps, blogs, videos, and tutori
 ### Closed Source
 
 - [Taobot.io](https://taobot.io) - chatbot & knowledgebase hybrid by [cachho](https://github.com/cachho)
+
+## Templates
+
+### Replit
+- [Embedchain Chat Bot](https://replit.com/@taranjeet1/Embedchain-Chat-Bot) by taranjeetio
+- [Embedchain Memory Chat Bot Template](https://replit.com/@taranjeetio/Embedchain-Memory-Chat-Bot-Template) by taranjeetio
 
 ## Posts
 
